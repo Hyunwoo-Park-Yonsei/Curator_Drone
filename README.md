@@ -8,7 +8,7 @@
 ### Tracking
 
 * Used Yolo framework to recognize people.
-* Using red box of recognized people, I was able to track people.
+* Using red box and simple algorithm, I was able to track people.
 
   
 ![ex_screenshot1](./img/1.png)
